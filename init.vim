@@ -47,3 +47,4 @@ colorscheme gruvbox
 "Custom remaps"
 inoremap kj <Esc>
 let mapleader = " "
+
