@@ -1,7 +1,7 @@
 Hi, I'm @cryptikulous
 I am interested in learning programming languages and collaborating with others, thus developing open source softwares.
 I'm currently learning HTML and some Python, a pure beginner..
-I'm looking to build software with communities of people with the same interests as me, also learn from the masters
+I'm looking to build software with communities of people with the same interests as me, also learning from the masters.
 Fellow Humans can reach me at cryptikulous@tutanota.com
 
 <!---
